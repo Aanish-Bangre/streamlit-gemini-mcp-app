@@ -26,7 +26,6 @@ A powerful Streamlit web application that combines Google's Gemini AI with Apify
 - Python 3.13 or higher
 - Google Gemini API key
 - Apify API token
-- Google Sheets service account credentials (optional)
 
 ## 🛠️ Installation
 
@@ -68,13 +67,6 @@ A powerful Streamlit web application that combines Google's Gemini AI with Apify
 2. Go to Account Settings → Integrations → API tokens
 3. Create a new token
 4. Add it to your `.env` file as `APIFY_API_TOKEN`
-
-### Google Sheets (Optional)
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project or select existing one
-3. Enable Google Sheets API
-4. Create a service account and download JSON credentials
-5. Add the JSON content to your `.env` file as `GOOGLE_SHEETS_CREDENTIALS`
 
 ## 🚀 Usage
 
