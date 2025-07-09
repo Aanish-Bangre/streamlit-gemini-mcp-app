@@ -52,7 +52,6 @@ A powerful Streamlit web application that combines Google's Gemini AI with Apify
    ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    APIFY_API_TOKEN=your_apify_token_here
-   GOOGLE_SHEETS_CREDENTIALS=your_google_sheets_json_credentials
    ```
 
 ## 🔑 API Setup
