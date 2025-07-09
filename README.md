@@ -99,12 +99,6 @@ scrape tripadvisor for Italian restaurants in New York
 scrape googlemaps for coffee shops in San Francisco
 ```
 
-### Data Export
-```
-create google sheet named "Travel Data"
-save to google sheets for my vacation research
-```
-
 ## 📊 Data Format
 
 The application automatically formats scraped data for easy reading:
